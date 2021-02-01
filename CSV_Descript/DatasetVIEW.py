@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-data = pd.read_csv('housing.csv')
+import numpy as np
 
 class DatasetView:
   def viewtop(self ,data):
