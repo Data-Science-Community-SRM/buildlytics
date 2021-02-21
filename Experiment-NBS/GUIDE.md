@@ -12,7 +12,7 @@ Guide for adding new features:
 
 4) Update the version before uploading in setup.py
 
- For uploading version changes type the following in terminal of the downloaded folder : 
+ For uploading version changes, type the following in terminal of the downloaded folder : 
 
 
 ``` python
