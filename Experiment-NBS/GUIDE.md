@@ -8,7 +8,7 @@ Guide for adding new features:
 
 2) Download the package : buildlytics-test-3 using pip3 ( We are still testing this package prior to release)
 
-3) Whatever changes you make to the code will only be reflected if package is updated with your changes, so, incase you are not the maintainer on PyPi , drop a message in the discord group. 
+3) Whatever changes you make to the code will only be reflected if package is updated with your changes, so, incase you are not the maintainer on PyPi , drop a message in the discord group with your username.
 
 4) Update the version before uploading in setup.py
 
