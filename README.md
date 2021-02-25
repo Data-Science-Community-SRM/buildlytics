@@ -2,7 +2,7 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> Eda Package </h2>
+	<h2 align="center"> Buildlytics </h2>
 	<h4 align="center"> A comprehensive way to make your Exploratory data analysis process easy by using our package <h4>
 </p>
 
@@ -13,23 +13,25 @@
 ## Preview
 - Add pictures or important highlights from the Project (if any)
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+The module contains `DataFrameSummary` function which takes dataframe in its parameter
 
+ * **properties**
+    * dfs.columns_stats: counts, uniques, missing, missing_perc, and type per column etc.
+    * dsf.columns_types: a count of the types of columns
+    * dfs[column]: more in depth summary of the column
 <br>
 
 
 ## Instructions to run
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	-  Install Pandas, Seaborn, Matplotlib
+	-  Install Python
 
 * < directions to install > 
+The module can be easily installed with pip:
 ```bash
-< insert code >
+!pip3 install buildlytics-test-3 --upgrade
 ```
 
 * < directions to execute >
