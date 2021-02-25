@@ -11,7 +11,13 @@
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
-- Add pictures or important highlights from the Project (if any)
+- Preview of our package
+<img src="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Images/Screenshot%20from%202021-02-25%2022-52-32.png" width=40%/>
+<br><br>
+<img src="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Images/Screenshot%20from%202021-02-25%2022-52-08.png" width=40%/>
+<br><br>
+<img src="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Images/Screenshot%20from%202021-02-25%2022-52-13.png" width=40%/>
+
 ## Functionalities
 The module contains `DataFrameSummary` function which takes dataframe in its parameter
 
@@ -28,17 +34,30 @@ The module contains `DataFrameSummary` function which takes dataframe in its par
 	-  Install Pandas, Seaborn, Matplotlib
 	-  Install Python
 
-* < directions to install > 
+*
 The module can be easily installed with pip:
 ```bash
 !pip3 install buildlytics-test-3 --upgrade
 ```
 
-* < directions to execute >
+Guide for adding new features:
+
+* You need to download the zip file for this project
+
+* Download the package : buildlytics-test-3 using pip3 ( We are still testing this package prior to release)
+
+* Whatever changes you make to the code will only be reflected if package is updated with your changes, so, incase you are not the maintainer on PyPi , drop a message in the discord group.
+
+* Update the version before uploading in setup.py
+
+For uploading version changes type the following in terminal of the downloaded folder :
 
 ```bash
-< insert code >
+python3 setup.py sdist
+    twine upload dist/*
 ```
+You can find the experiment <a href="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Experiment-NBS/Experiment-Package.ipynb">here</a>
+
 
 ## Contributors
 
