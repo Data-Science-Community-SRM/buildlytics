@@ -39,6 +39,100 @@ The module can be easily installed with pip:
 ```bash
 !pip3 install buildlytics-test-3 --upgrade
 ```
+The `DataFrameSummary` expect a pandas `DataFrame` to summarise.
+
+```
+from pandas_summary import DataFrameSummary
+
+dfs = DataFrameSummary(tips)
+```
+
+To get the columns types
+
+```
+dfs.columns_types
+
+
+bool           3
+numeric        3
+categorical    1
+Name: types, dtype: int64
+```
+
+To get the overall columns stats
+
+```
+dfs.columns_stats
+
+	total_bill	tip	sex	smoker	day	time	size
+counts	244	244	244	244	244	244	244
+uniques	229	123	2	2	4	2	6
+missing	0	0	0	0	0	0	0
+missing_perc	0%	0%	0%	0%	0%	0%	0%
+types	numeric	numeric	bool	bool	categorical	bool	numeric
+```
+
+To get the particular column stats
+
+```
+dfs['total_bill']
+
+mean                            19.7859
+std                             8.90241
+variance                        79.2529
+min                                3.07
+max                               50.81
+mode                              13.42
+5%                               9.5575
+25%                             13.3475
+50%                              17.795
+75%                             24.1275
+95%                              38.061
+iqr                               10.78
+kurtosis                        1.21848
+skewness                        1.13321
+sum                             4827.77
+mad                             6.86944
+cv                             0.449936
+zeros_num                             0
+zeros_perc                           0%
+deviating_of_mean                     4
+deviating_of_mean_perc            1.64%
+deviating_of_median                  12
+deviating_of_median_perc          4.92%
+top_correlations            tip: 67.57%
+counts                              244
+uniques                             229
+missing                               0
+missing_perc                         0%
+types                           numeric
+Name: total_bill, dtype: object
+
+```
+
+To get the heatmap
+
+```
+dfs._get_heatmap(tips) //tips is the dataframe
+```
+
+To get the pairplot
+
+```
+pairplot=DataFrameSummary(tips)
+pairplot._get_pairplot()
+```
+
+To get the scatterplot
+
+```
+dfs._get_scatterplot(tips['total_bill'],tips['tip'],tips['day'])
+```
+
+
+
+
+## Contribute to this package
 
 Guide for adding new features:
 
