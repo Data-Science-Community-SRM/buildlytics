@@ -37,7 +37,7 @@ The module contains `DataFrameSummary` function which takes dataframe in its par
 *
 The module can be easily installed with pip:
 ```bash
-!pip3 install buildlytics-test-3 --upgrade
+!pip3 install buildlytics --upgrade
 ```
 The `DataFrameSummary` expect a pandas `DataFrame` to summarise.
 
