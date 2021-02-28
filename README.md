@@ -134,6 +134,8 @@ dfs._get_scatterplot(tips['total_bill'],tips['tip'],tips['day'])
 
 ## Contribute to this package
 
+**For Maintainers:**
+
 Guide for adding new features:
 
 * You need to download the zip file for this project
@@ -150,7 +152,14 @@ For uploading version changes type the following in terminal of the downloaded f
 python3 setup.py sdist
     twine upload dist/*
 ```
-You can find the experiment <a href="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Experiment-NBS/Experiment-Package.ipynb">here</a>
+**For Open Source Contributors**
+
+* Open a Pull request 
+* State the new feature you are proposing to add or issue you are solving clearly
+
+**Notebooks**
+
+You can find the notebook <a href="https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Experiment-NBS/Experiment-Package.ipynb">here</a>
 
 
 ## Contributors
