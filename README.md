@@ -140,7 +140,7 @@ Guide for adding new features:
 
 * You need to download the zip file for this project
 
-* Download the package : buildlytics-test-3 using pip3 ( We are still testing this package prior to release)
+* Download the package : buildlytics using pip3 
 
 * Whatever changes you make to the code will only be reflected if package is updated with your changes, so, incase you are not the maintainer on PyPi , drop a message in the discord group.
 
@@ -156,6 +156,7 @@ python3 setup.py sdist
 
 * Open a Pull request 
 * State the new feature you are proposing to add or issue you are solving clearly
+* Wait for us to approve it. :wink:
 
 **Notebooks**
 
@@ -191,7 +192,7 @@ Akshat Anand
 Tarushi Pathak
 
 <p align="center">
-<img src = ""  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://tarushi98.github.io/3.jpg"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/tarushi98"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
