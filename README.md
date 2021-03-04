@@ -217,11 +217,11 @@ Tarushi Pathak
 Stuti Sehgal
 
 <p align="center">
-<img src = ""  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://drive.google.com/file/d/1nPBiHB81hJJAt3ct5Fy1QAWfuBHdiTaw/view?usp=sharing"  height="120">
 </p>
 <p align="center">
-<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/">
+<a href = "https://github.com/stutisehgal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/stutisehgal">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -233,7 +233,7 @@ Stuti Sehgal
 Soumya Snigdha Kundu
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQGoZeQyhZ_bHQ/profile-displayphoto-shrink_400_400/0/1613590285777?e=1620259200&v=beta&t=3ced-DD7g3vEcFG_1_DXTj8vMpM4M9V4HGbJWkvYO4o"  height="120" alt="Soumya Snigdha Kundu (Insert Your Image Link In Src">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQGoZeQyhZ_bHQ/profile-displayphoto-shrink_400_400/0/1613590285777?e=1620259200&v=beta&t=3ced-DD7g3vEcFG_1_DXTj8vMpM4M9V4HGbJWkvYO4o"  height="120">
 </p>
 <p align="center">
 <a href = "https://github.com/aymuos15"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
