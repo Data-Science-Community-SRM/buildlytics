@@ -217,7 +217,7 @@ Tarushi Pathak
 Stuti Sehgal
 
 <p align="center">
-<img src = "https://drive.google.com/file/d/1KbmSdqO2TqPzRrPHMRYMZ9240kttDgrJ/view?usp=sharing"  height="120">
+<img src = "https://github.com/Data-Science-Community-SRM/buildlytics/blob/master/Images/me.jpg"  height="120">
 </p>
 <p align="center">
 <a href = "https://github.com/stutisehgal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
